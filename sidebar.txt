@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alu:home|Door43 (alu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alu|d43-alu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alu/archive/master.zip|d43-alu.zip]]
+
+**Recent Changes**
+{{changes>ns = alu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alu|Ethnologue data]]
+
